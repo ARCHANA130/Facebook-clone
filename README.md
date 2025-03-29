@@ -6,8 +6,8 @@ This project is a Facebook clone built using HTML and TailwindCSS. The repositor
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Installation
 
@@ -29,15 +29,7 @@ To get started with the project, follow these steps:
 
 This project provides a simple static HTML and CSS implementation of a Facebook clone. You can modify the HTML and CSS files to customize the layout and design according to your needs.
 
-## Contributing
 
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-feature-branch`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-feature-branch`
-5. Submit a pull request.
 
 
 
