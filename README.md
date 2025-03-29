@@ -1,7 +1,3 @@
-# Facebook clone using Tailwindcss
-To write documentation for the `ARCHANA130/Facebook-clone` repository, I will need to gather some information about the project. Let's start by reviewing the current `README.md` file to understand the existing content and then proceed to enhance it.
-
-I will retrieve the content of the `README.md` file in your repository.Here is the documentation for your repository:
 
 # Facebook Clone
 
