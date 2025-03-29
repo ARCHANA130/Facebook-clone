@@ -43,10 +43,5 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push to the branch: `git push origin my-feature-branch`
 5. Submit a pull request.
 
-## License
-
-
-
----
 
 
